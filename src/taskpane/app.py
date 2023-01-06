@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import openai
 import uvicorn
 
-openai.api_key = "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"
+openai.api_key = "PUT YOUR API KEY"
 
 app = FastAPI()
 
