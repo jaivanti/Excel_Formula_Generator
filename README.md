@@ -10,7 +10,7 @@ Describe a formula in Natural Language Input and get a excel formula Output
 Describe a formula in natural Language and it will generate it for you.  From simple stuff that’s easier to describe than type out, to harder things incorporating regex, formulas based on contextual info, and sometimes stuff using functions you didn’t even know existed. This tool is backed by OpenAI Text-Davinci-003 model to generate better excel formula based on responses in realtime irrespective of pattern you write the formula in.
 Currently, the tool is still in development mode, still working to develop in a better UI and maybe as a excel add-in.
 
-##Run Commands
+## Run Commands
 * Download the above code locally
 * Open the terminal, navigate to the code folder - ```src\taskpane``` and run the FastAPI by the below command.
 ```bash
